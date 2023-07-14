@@ -2,6 +2,16 @@
 
 ##### Authenticated user can add pdf file and share it with other authenticated users as well as guest user with commenting features.
 
+### Links
+* Documentation: 
+    Refer - [https://documenter.getpostman.com/view/28423104/2s946fcs7N](https://documenter.getpostman.com/view/28423104/2s946fcs7N)
+* Frontend Repo:
+    Refer - [https://github.com/md-sahil-11/SDFrontend](https://github.com/md-sahil-11/SDFrontend)
+* Backend Repo:
+    Refer - [https://github.com/md-sahil-11/SDBackend](https://github.com/md-sahil-11/SDBackend)
+* Video folder:
+    Refer - [https://drive.google.com/drive/folders/1jTKemW3Be-w5HikPgpZ4bdxHoRIpv8rN](https://drive.google.com/drive/folders/1jTKemW3Be-w5HikPgpZ4bdxHoRIpv8rN)
+
 ## Features
 * Users can create an account by providing essential information such as name, email address, and password.
 * Authenticated users can upload a PDF file to the system.
@@ -38,15 +48,6 @@
 * #### Pythonanywhere
 * #### Vercel
 
-### Links
-* Documentation: 
-    Refer - [https://documenter.getpostman.com/view/28423104/2s946fcs7N](https://documenter.getpostman.com/view/28423104/2s946fcs7N)
-* Frontend Repo:
-    Refer - [https://github.com/md-sahil-11/SDFrontend](https://github.com/md-sahil-11/SDFrontend)
-* Backend Repo:
-    Refer - [https://github.com/md-sahil-11/SDBackend](https://github.com/md-sahil-11/SDBackend)
-* Video folder:
-    Refer - [https://drive.google.com/drive/folders/1jTKemW3Be-w5HikPgpZ4bdxHoRIpv8rN](https://drive.google.com/drive/folders/1jTKemW3Be-w5HikPgpZ4bdxHoRIpv8rN)
 
 
 
