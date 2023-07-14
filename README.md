@@ -11,6 +11,7 @@
 * File can be shared with both authenticated and unauthenticated(external users) users using using sharable link.
 * Invitation mail for authenticated user.
 * Invited user and unauthenticated(external) users can add comments/replies related to the PDF file.
+* Responsive design should be implemented to support various devices and screen sizes.
 
 ## Extra backend features
 * Like/Unlike comments and replies apis.
@@ -33,6 +34,10 @@
 ### API Testing
 * #### Postman
 
+### Deployment
+* #### Pythonanywhere
+* #### Vercel
+
 ### Links
 * Documentation: 
     Refer - [https://documenter.getpostman.com/view/28423104/2s946fcs7N](https://documenter.getpostman.com/view/28423104/2s946fcs7N)
@@ -40,6 +45,8 @@
     Refer - [https://github.com/md-sahil-11/SDFrontend](https://github.com/md-sahil-11/SDFrontend)
 * Backend Repo:
     Refer - [https://github.com/md-sahil-11/SDBackend](https://github.com/md-sahil-11/SDBackend)
+* Video folder:
+    Refer - [https://drive.google.com/drive/folders/1jTKemW3Be-w5HikPgpZ4bdxHoRIpv8rN](https://drive.google.com/drive/folders/1jTKemW3Be-w5HikPgpZ4bdxHoRIpv8rN)
 
 
 
